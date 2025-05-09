@@ -1,0 +1,29 @@
+TO-DOS:
+
+#### CONCEITO
+um jogo sobre um passáro que tenta evitar bater em uns canos e sobreviver o máximo possivel.
+
+#### IDEIA 1
+um jogo sobre um passaro-mãe que precisa recolher alimentos para o seu filhote, evitando bater nas vinhas 
+e tocos de árvores, enquanto precisa também de desviar das balas de  um caçador.
+
+#### ARTES
+- passaro prinicpal
+- animação passaro
+- animação passaro batendo
+
+- obstaculos 
+- background 1 
+- background 2
+
+#### PROGRAMAÇÃO
+- passaro pular
+- passaro cair
+- colisão player-ceu/chão
+
+- obstaculos se moverem
+- obstaculos spawnarem e sumirem
+- colisão obstaculo-player
+
+- efeito parallax
+- sistema pontuação 
